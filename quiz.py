@@ -58,10 +58,10 @@ def main():
         choice=int(input("Select a genre to play that quiz(1-5):: "))
         if choice in [1,2,3,4]:
             match choice:
-                case 1: questions=load_questions("python/projects/generalknowledge.txt")
-                case 2: questions=load_questions("python/projects/indiansports.txt")
-                case 3: questions=load_questions("python/projects/business.txt")
-                case 4: questions=load_questions("python/projects/nonsense.txt")
+                case 1: questions=load_questions("generalknowledge.txt")
+                case 2: questions=load_questions("indiansports.txt")
+                case 3: questions=load_questions("business.txt")
+                case 4: questions=load_questions("nonsense.txt")
 
             score=playQuiz(questions)
             print(f"\nTotal Score {score} points")
