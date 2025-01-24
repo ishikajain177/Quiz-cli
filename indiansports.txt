@@ -1,0 +1,15 @@
+1|Which sport is considered the national game of India?|a. Cricket|b. Hockey|c. Kabaddi|d. Football|b
+2|Who is known as the 'God of Cricket' in India?|a. MS Dhoni|b. Kapil Dev|c. Virat Kohli|d. Sachin Tendulkar|d
+3|Who was the first Indian to win an individual Olympic gold medal?|a. PV Sindhu|b. Abhinav Bindra|c. Milkha Singh|d. Neeraj Chopra|b
+4|Which Indian city hosts the IPL franchise 'Mumbai Indians'?|a. Delhi|b. Bengaluru|c. Mumbai|d. Kolkata|c
+5|Who is the first Indian badminton player to win an Olympic silver medal?|a. Saina Nehwal|b. PV Sindhu|c. Prakash Padukone|d. Kidambi Srikanth|b
+6|What is the term used for a point in Kabaddi?|a. Raid|b. Try|c. Goal|d. Run|a
+7|Who is the first Indian woman to win a medal at the Olympics?|a. Mary Kom|b. PV Sindhu|c. Karnam Malleswari|d. Saina Nehwal|c
+8|In which year did India win its first Cricket World Cup?|a. 1975|b. 1983|c. 2007|d. 2011|b
+9|Who holds the record for the fastest century in ODI cricket by an Indian?|a. Kapil Dev|b. Rohit Sharma|c. Virat Kohli|d. Yuvraj Singh|b
+10|Which Indian chess player became the first Grandmaster in India?|a. Pentala Harikrishna|b. Viswanathan Anand|c. Vidit Gujrathi|d. Koneru Humpy|b
+11|Which Indian wrestler won a bronze medal at the 2008 Beijing Olympics?|a. Sushil Kumar|b. Bajrang Punia|c. Yogeshwar Dutt|d. Sakshi Malik|a
+12|What is the length of a standard cricket pitch in yards?|a. 22 yards|b. 20 yards|c. 18 yards|d. 24 yards|a
+13|Who is the captain of the Indian men's hockey team that won the bronze medal at the Tokyo 2020 Olympics?|a. Manpreet Singh|b. PR Sreejesh|c. Harmanpreet Singh|d. Rupinder Pal Singh|a
+14|Which Indian athlete is known as the 'Flying Sikh'?|a. PT Usha|b. Hima Das|c. Milkha Singh|d. Dutee Chand|c
+15|Who became the first Indian fencer to qualify for the Olympics?|a. CA Bhavani Devi|b. Ankita Bhakat|c. Deepika Kumari|d. Jyothi Surekha Vennam|a

@@ -1,0 +1,15 @@
+1|What is the capital of France?|a. Paris|b. Madrid|c. Rome|d. Berlin|a
+2|Who discovered gravity?|a. Galileo Galilei|b. Isaac Newton|c. Albert Einstein|d. Nikola Tesla|b
+3|What is the chemical symbol for water?|a. O₂|b. H₂O|c. CO2|d. NaCl|b
+4|Who wrote 'Romeo and Juliet'?|a. Jane Austen|b. Charles Dickens|c. William Shakespeare|d. Mark Twain|c
+5|What is the largest planet in our solar system?|a. Neptune|b. Earth|c. Jupiter|d. Saturn|c
+6|Which element has the atomic number 1?|a. Oxygen|b. Hydrogen|c. Helium|d. Carbon|b
+7|Who painted the Mona Lisa?|a. Claude Monet|b. Vincent van Gogh|c. Leonardo da Vinci|d. Pablo Picasso|c
+8|What is the hardest natural substance on Earth?|a. Gold|b. Quartz|c. Iron|d. Diamond|d
+9|Who was the first President of the United States?|a. Thomas Jefferson|b. Abraham Lincoln|c. George Washington|d. John Adams|c
+10|What is the square root of 64?|a. 10|b. 6|c. 7|d. 8|d
+11|Which ocean is the largest by area?|a. Pacific Ocean|b. Atlantic Ocean|c. Indian Ocean|d. Arctic Ocean|a
+12|What is the national animal of India?|a. Elephant|b. Peacock|c. Lion|d. Tiger|d
+13|Which planet is known as the Red Planet?|a. Mercury|b. Venus|c. Mars|d. Uranus|c
+14|What is the smallest continent by land area?|a. Antarctica|b. Europe|c. South America|d. Australia|d
+15|Who invented the telephone?|a. Thomas Edison|b. Nikola Tesla|c. Alexander Graham Bell|d. Guglielmo Marconi|c

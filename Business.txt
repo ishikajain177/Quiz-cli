@@ -1,0 +1,15 @@
+1|Who is known as the 'Father of Modern Economics'?|a. Adam Smith|b. John Maynard Keynes|c. Milton Friedman|d. Karl Marx|a
+2|What does 'IPO' stand for in the business world?|a. Initial Product Offering|b. Initial Public Offering|c. Investment Portfolio Offering|d. International Payment Order|b
+3|Which company is popularly known as 'Big Blue'?|a. Microsoft|b. IBM|c. Intel|d. Oracle|b
+4|Who is the founder of Amazon?|a. Bill Gates|b. Elon Musk|c. Jeff Bezos|d. Larry Page|c
+5|What is the currency of Japan?|a. Yuan|b. Won|c. Yen|d. Baht|c
+6|What does the term 'unicorn' refer to in business?|a. A company with no debt|b. A startup valued at over $1 billion|c. A company with global reach|d. A newly listed public company|b
+7|Which Indian businessman is the founder of Reliance Industries?|a. Ratan Tata|b. Mukesh Ambani|c. Dhirubhai Ambani|d. Gautam Adani|c
+8|Which country is home to the headquarters of Coca-Cola?|a. Canada|b. United States|c. France|d. Germany|b
+9|Who is the CEO of Tesla as of 2025?|a. Larry Page|b. Sundar Pichai|c. Elon Musk|d. Tim Cook|c
+10|What does 'FMCG' stand for?|a. Fast Moving Consumer Goods|b. Financial Market Consumer Group|c. Free Market Consumer Goods|d. Foreign Market Capital Goods|a
+11|Which Indian entrepreneur founded the Adani Group?|a. Mukesh Ambani|b. Ratan Tata|c. Gautam Adani|d. Narayana Murthy|c
+12|What is the full form of CEO?|a. Chief Executive Officer|b. Corporate Executive Officer|c. Central Economic Officer|d. Chief Economic Officer|a
+13|The NYSE is one of the world's largest stock exchanges. What does NYSE stand for?|a. New York Stock Exchange|b. New York Securities Exchange|c. National Yield Stock Exchange|d. None of the above|a
+14|Who is the founder of the Indian IT giant Infosys?|a. Azim Premji|b. Narayana Murthy|c. Shiv Nadar|d. Sundar Pichai|b
+15|What does GDP stand for in economics?|a. Gross Domestic Product|b. General Development Plan|c. Global Domestic Policy|d. Government Development Program|a

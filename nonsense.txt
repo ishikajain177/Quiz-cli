@@ -1,0 +1,15 @@
+1|What did the zero say to the eight?|a.'You look round!'|b.'Nice belt!'|c.'You’re so big!'|d.'I feel empty!'|Answer: b
+2|Why don’t skeletons fight each other?|a.'They don’t have the guts'|b.'They're too busy partying'|c.'They can’t find their weapons'|d.'They’re too tired'|Answer: a
+3|How do you organize a space party?|a.'You planet'|b.'With rocket fuel'|c.'With a moonwalk'|d.'You invite aliens'|Answer: a
+4|Why did the scarecrow win an award?|a.'Because he was outstanding in his field'|b.'Because he made everyone laugh'|c.'Because he’s very intelligent'|d.'Because he’s a great listener'|Answer: a
+5|What do you call fake spaghetti?|a.'An impasta'|b.'A noodle fake'|c.'Spaghetti in disguise'|d.'A pasta-lution'|Answer: a
+6|What do cows do for fun?|a.'They eat grass and tell jokes'|b.'They read moo-zines'|c.'They listen to moo-sic'|d.'They go to the moo-vies'|Answer: c
+7|What did one ocean say to the other ocean?|a.'Let’s make a wave together'|b.'Stop splashing!'|c.'I’m shore we’ll get along'|d.'Nothing, they just waved'|Answer: d
+8|Why can't you trust an atom?|a.'Because they’re so tiny'|b.'Because they make up everything'|c.'Because they’re always in motion'|d.'Because they’re really negative'|Answer: b
+9|Why did the bicycle fall over?|a.'Because it was two-tired'|b.'Because it was lonely'|c.'Because it couldn’t pedal anymore'|d.'Because it was not balanced'|Answer: a
+10|What do you call cheese that isn’t yours?|a.'Not mine cheese'|b.'Moo-cheese'|c.'Stolen cheese'|d.'Nacho cheese'|Answer: d
+11|What did the big flower say to the little flower?|a.'Let’s blossom together'|b.'You’re petal-tastic'|c.'You’re blooming awesome'|d.'Hey, bud!'|Answer: c
+12|Why do bees have sticky hair?|a.'Because they don’t use shampoo'|b.'Because they use honeycombs'|c.'Because they’re always in a buzz'|d.'Because they’re always working overtime'|Answer: b
+13|What’s a skeleton’s least favorite room in the house?|a.'The closet'|b.'The living room'|c.'The kitchen'|d.'The dining room'|Answer: a
+14|Why did the tomato turn red?|a.'Because it was embarrassed'|b.'Because it was mad'|c.'Because it saw the salad dressing'|d.'Because it’s ripe'|Answer: c
+15|What do you get when you cross a snowman and a vampire?|a.'Snowblood'|b.'Frostbite'|c.'Chilly night'|d.'A snowman’s revenge'|Answer: b
